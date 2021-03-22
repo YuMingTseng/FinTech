@@ -11,16 +11,16 @@
 > 改善現有的digital customer on-boarding process, 透過一步步的過程，引導投資人做出適當的投資決定，並逐步建立、養成資產配置的投資行為
 ### 專案成員
 #### 業師:
-- Eddie 鄒志斌
-- Ivian 許依婷
+- **Eddie 鄒志斌**
+- **Ivian 許依婷**
 #### 指導老師:
-- [蔡芸琤](https://github.com/pecu)
+- **[蔡芸琤](https://github.com/pecu)**
 #### 組員:
-- 台灣大學 政治系國關祖 康閏筑
-- 台灣大學 財經系 陳品璇
-- 東吳大學 巨資系 曾宥銘
-- 東吳大學 巨資系 張皓崴
-- 東吳大學 數學系 陳翰緯
+- 台灣大學 政治系國關祖 **康閏筑**
+- 台灣大學 財經系 **陳品璇**
+- 東吳大學 巨資系 **曾宥銘**
+- 東吳大學 巨資系 **張皓崴**
+- 東吳大學 數學系 **陳翰緯**
 # HomeWork
 ### HomeWork1 : [What Do You Think Of Cloud Computing](HW1/HW1.md)
 ```
