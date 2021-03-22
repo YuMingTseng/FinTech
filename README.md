@@ -2,6 +2,21 @@
 - Name :   Yu-Ming Tseng 曾宥銘
 - School : Soochow University
 - Major :  Big Data(Data Science)
+
+# Nomura(野村投信) Project
+### 題目 : 運用「對話機器人」提升及引導新手投資人的數位體驗
+### 問題介紹
+> 由於投資商品/服務的溝通成效，不只涉及產品的複雜性也包含投資人的金融素養(financial literacy)程度。因此資產管理業者在引導(新手)投資人進行投資時，最後也往往只能選擇以：(1)投資績效為訴求 (2) 話題商品/新聞議題為包裝，而無法真的提供資產管理業者的最大價值：「資產配置」的服務給投資人。
+### 專案目標
+> 改善現有的digital customer on-boarding process, 透過一步步的過程，引導投資人做出適當的投資決定，並逐步建立、養成資產配置的投資行為
+### 專案成員
+#### 業師:
+- Eddie 鄒志斌
+- Ivian 許依婷
+#### 指導老師:
+- 蔡芸琤
+#### 組員:
+
 # HomeWork
 ### HomeWork1 : [What Do You Think Of Cloud Computing](HW1/HW1.md)
 ```
