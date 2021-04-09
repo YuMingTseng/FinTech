@@ -37,7 +37,7 @@
 在完成第 2 堂雲端服務課程後，藉由 Linux 2 虛擬機完成安裝 LAMP 解決方案包，並成功啟動網頁伺服器與資料庫伺服器的功能。
 *** 別忘了過程中說明與解釋您的操作步驟。
 ```
-### HomeWork3 : [Build a Website using Amazon S3(Versioning) and AWS Amplify]()
+### HomeWork3 : [Build a Website using Amazon S3(Versioning) and AWS Amplify](https://youtu.be/cbXR6CdO9-8)
 ```
 說明：
 在完成第 3 堂雲端服務課程後，運用 S3 與 Amplify 服務進行網頁部署，過程中演示版本控制功能。
