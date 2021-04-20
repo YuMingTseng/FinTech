@@ -43,7 +43,7 @@
 在完成第 3 堂雲端服務課程後，運用 S3 與 Amplify 服務進行網頁部署，過程中演示版本控制功能。
 *** 別忘了過程中說明與解釋您的操作步驟。
 ```
-### HomeWork4 : [Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda]()
+### HomeWork4 : [Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda](https://youtu.be/D5DunNwSt34)
 ```
 說明：
 在完成第 4 堂雲端服務課程後，運用無伺服器框架串接 Telegram Chatbot，並且成功執行 DEMO 文件，達到鸚鵡機器人的效果。
