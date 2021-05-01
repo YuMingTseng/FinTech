@@ -17,6 +17,7 @@
 > - **[蔡芸琤](https://github.com/pecu)**
 > #### 助教:
 > - **[陳偉傑](https://github.com/sefx5ever)**
+> - **司福民**
 > - **蔡雨臻**
 > #### 組員:
 > - 台灣大學 政治系國關組 **康閏筑**
@@ -49,7 +50,7 @@
 在完成第 4 堂雲端服務課程後，運用無伺服器框架串接 Telegram Chatbot，並且成功執行 DEMO 文件，達到鸚鵡機器人的效果。
 *** 別忘了過程中說明與解釋您的操作步驟。
 ```
-### HomeWork5 : [Create a Database using Amazon RDS or Amazon DynamoDB]()
+### HomeWork5 : [Create a Database using Amazon RDS or Amazon DynamoDB](https://youtu.be/Ag3jQL7S_58)
 ```
 說明：
 在完成第 5 堂雲端服務課程後，運用資料庫服務上傳給定的資料集，並且可透過界面進行 CRUD 行為。
