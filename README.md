@@ -56,7 +56,7 @@
 在完成第 5 堂雲端服務課程後，運用資料庫服務上傳給定的資料集，並且可透過界面進行 CRUD 行為。
 *** 別忘了過程中說明與解釋您的操作步驟。
 ```
-### HomeWork6 : [Create a Docker Container or Build your own Project Services]()
+### HomeWork6 : [Create a Docker Container or Build your own Project Services](https://youtu.be/knn7Q5KAZko)
 ```
 說明：
 在完成第 6 堂雲端服務課程後，透過 Docker 建立 Image，並執行該 Container，其內容可以是程序執行、
