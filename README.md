@@ -64,7 +64,7 @@
 *** 別忘了過程中說明與解釋您的操作步驟。
 ```
 ### 專案報告 : [野村投信-野村理財機器人 成果影片](https://www.youtube.com/watch?v=XErk-U-hSJU)
-              [程式碼](telegram_bot_official.py)
+### [程式碼](telegram_bot_official.py)
 ```
 說明:
 本人負責機器人撰寫部分
