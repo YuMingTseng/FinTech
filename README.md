@@ -67,5 +67,5 @@
 ```
 說明:
 本人負責機器人撰寫部分
-Telegram機器人實際操作部分在[8:50處](https://youtu.be/XErk-U-hSJU?t=530)
+Telegram機器人實際操作部分在 [8:50處](https://youtu.be/XErk-U-hSJU?t=530)
 ```
