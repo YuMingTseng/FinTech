@@ -63,3 +63,9 @@
 各種伺服器服務等，並上傳至 Docker Hub。或您也可以選擇演示操作您的專案成品。
 *** 別忘了過程中說明與解釋您的操作步驟。
 ```
+### 專案報告 : [野村投信-野村理財機器人](https://www.youtube.com/watch?v=XErk-U-hSJU)
+```
+說明:
+本人負責機器人撰寫部分
+Telegram機器人實際操作部分在[8:50處](https://youtu.be/XErk-U-hSJU?t=530)
+```
